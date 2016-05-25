@@ -1,0 +1,24 @@
+[submodule "src/ESLint-tmbundle"]
+	path = src/ESLint-tmbundle
+	url = git@github.com:meyer/ESLint.tmbundle.git
+[submodule "src/HTML5-tmbundle"]
+	path = src/HTML5-tmbundle
+	url = git@github.com:subtleGradient/HTML5.tmbundle.git
+[submodule "src/JS-tmbundle"]
+	path = src/JS-tmbundle
+	url = git@github.com:meyer/javascript.tmbundle.git
+[submodule "src/JS-with-JSX-tmbundle"]
+	path = src/JS-with-JSX-tmbundle
+	url = git@github.com:meyer/JavaScript-with-JSX.tmbundle.git
+[submodule "src/Meyer-tmbundle"]
+	path = src/Meyer-tmbundle
+	url = git@github.com:meyer/Meyer.tmbundle.git
+[submodule "src/React-Helpers-tmbundle"]
+	path = src/React-Helpers-tmbundle
+	url = git@github.com:meyer/React-Helpers.tmbundle.git
+[submodule "src/Whitespace-tmbundle"]
+	path = src/Whitespace-tmbundle
+	url = git@github.com:meyer/Whitespace.tmbundle.git
+[submodule "third-party/fish-tmbundle"]
+	path = third-party/fish-tmbundle
+	url = git://github.com/l15n/fish-tmbundle.git
